@@ -1,3 +1,15 @@
+# =============================================================
+# Copyright (c) 2026 Hemanth Charan
+# All rights reserved.
+#
+# PERMISSION NOTICE:
+# This model architecture and its associated weights are the 
+# intellectual property of Hemanth Charan. 
+#
+# Use, distribution, or modification of this project requires 
+# the explicit written permission of the author. 
+# For inquiries, please contact the author via GitHub.
+# =============================================================
 import torch
 import torch.nn as nn
 from transformers import BertModel
